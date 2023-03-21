@@ -18,7 +18,7 @@
   h1 {
     margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: black;
     font-size: 50px;
   }
   
@@ -82,10 +82,14 @@
     }
     .col-md-6 {
       width: 50%;
+      margin-left: auto;
+      margin-right: auto;
     }
     .col-md-12 {
       margin-left: -10px;
       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
     .name3{
       margin-right: 65px;
